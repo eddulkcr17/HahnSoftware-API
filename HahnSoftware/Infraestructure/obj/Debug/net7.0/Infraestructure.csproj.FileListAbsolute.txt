@@ -1,0 +1,17 @@
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\bin\Debug\net7.0\Infraestructure.deps.json
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\bin\Debug\net7.0\Infraestructure.dll
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\bin\Debug\net7.0\Infraestructure.pdb
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\bin\Debug\net7.0\Application.dll
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\bin\Debug\net7.0\Domain.dll
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\bin\Debug\net7.0\Domain.pdb
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\bin\Debug\net7.0\Application.pdb
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.AssemblyReference.cache
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\obj\Debug\net7.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfoInputs.cache
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfo.cs
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CoreCompileInputs.cache
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CopyComplete
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\obj\Debug\net7.0\Infraestructure.dll
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\obj\Debug\net7.0\refint\Infraestructure.dll
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\obj\Debug\net7.0\Infraestructure.pdb
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Infraestructure\obj\Debug\net7.0\ref\Infraestructure.dll

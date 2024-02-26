@@ -1,0 +1,12 @@
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Domain\bin\Debug\net7.0\Domain.dll
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Domain\obj\Debug\net7.0\Domain.dll
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Domain\obj\Debug\net7.0\ref\Domain.dll
