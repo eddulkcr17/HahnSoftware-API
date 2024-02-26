@@ -21,7 +21,7 @@ public partial record Address
 
     public string ZipCode{ get; init;}
 
-    public static Address? create(string country, string line1, string line2, string city, string state, string zipCode){
+    public static Address? Create(string country, string line1, string line2, string city, string state, string zipCode){
         if(string.IsNullOrEmpty(country) || string.IsNullOrEmpty(line1) ||
         string.IsNullOrEmpty(city) || string.IsNullOrEmpty(line2) ||
         string.IsNullOrEmpty(state) || string.IsNullOrEmpty(zipCode)){
