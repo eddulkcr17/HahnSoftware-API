@@ -39,3 +39,6 @@ D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Web.API\obj\Debug\net7.0\Web.API.genrun
 D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Web.API\obj\Debug\net7.0\ref\Web.API.dll
 D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Web.API\bin\Debug\net7.0\MediatR.dll
 D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Web.API\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Web.API\bin\Debug\net7.0\FluentValidation.dll
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Web.API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Web.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
