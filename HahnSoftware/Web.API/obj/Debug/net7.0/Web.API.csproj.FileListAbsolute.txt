@@ -37,3 +37,5 @@ D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Web.API\obj\Debug\net7.0\refint\Web.API
 D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Web.API\obj\Debug\net7.0\Web.API.pdb
 D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Web.API\obj\Debug\net7.0\Web.API.genruntimeconfig.cache
 D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Web.API\obj\Debug\net7.0\ref\Web.API.dll
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Web.API\bin\Debug\net7.0\MediatR.dll
+D:\Dev\DDD\HahnSoftware-API\HahnSoftware\Web.API\bin\Debug\net7.0\MediatR.Contracts.dll

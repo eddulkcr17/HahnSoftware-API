@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ExD1EoMRZs9XD8HntjrBcXZD8lUZyxVnbIxXUYhgT3yRGrasmijElN/SoFtu2WHJMIct851GxlUj+qe9KPW0+Q==",
+  "dgSpecHash": "w8cYBVOfMYznDksnPazFBGlandBXB9HTSrxgZhZzbcmuHuFmnI18f1/pQMER0gnceILNYLhP6SRy1Ymc+9EgJA==",
   "success": true,
   "projectFilePath": "D:\\Dev\\DDD\\HahnSoftware-API\\HahnSoftware\\Infraestructure\\Infraestructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\eddu_\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\eddu_\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\eddu_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
